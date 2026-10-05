@@ -1,0 +1,6 @@
+{
+  "name": "ShopPOS Pro",
+  "description": "An advanced, mobile-responsive point-of-sale system featuring sale billing, stock tracking, barcode/camera scanner simulation, report analytics, customer credit ledger, staff management, and expense logs.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
